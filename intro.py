@@ -6,3 +6,11 @@ my_name = 'David Agit'
 
 print(my_name)
 
+
+
+# variables in python
+myVar1 = 2000
+myVar2 = 4
+print(myVar1/myVar2)
+print(myVar1 % myVar2)
+
